@@ -1,0 +1,15 @@
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+
+# opencode local outputs
+.playwright-mcp/
