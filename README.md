@@ -1,4 +1,4 @@
-# OPENCODE AGENTS BY FTDEV7
+# Opencode Agents by FtDev7
 
 Custom global agents for [opencode](https://opencode.ai).
 
